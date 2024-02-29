@@ -1,0 +1,1529 @@
+{
+    "image_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81",
+    "viewpoint": "AP",
+    "patient_id": 11959638,
+    "study_id": 59477618,
+    "gender": "M",
+    "age_decile": "60-70",
+    "reason_for_exam": "___ year old man with resp failure  // eval interval change     \n eval interval change",
+    "StudyOrder": 7,
+    "StudyDateTime": "2178-09-15 03:46:07 UTC",
+    "objects": [
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right lung",
+            "x1": 26,
+            "y1": 54,
+            "x2": 107,
+            "y2": 213,
+            "width": 81,
+            "height": 159,
+            "bbox_name": "right lung",
+            "synsets": [
+                "C0225706"
+            ],
+            "name": "Right lung",
+            "original_x1": 354,
+            "original_y1": 476,
+            "original_x2": 1456,
+            "original_y2": 2641,
+            "original_width": 1102,
+            "original_height": 2165
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right upper lung zone",
+            "x1": 38,
+            "y1": 59,
+            "x2": 107,
+            "y2": 121,
+            "width": 69,
+            "height": 62,
+            "bbox_name": "right upper lung zone",
+            "synsets": [
+                "C0934570"
+            ],
+            "name": "Right upper lung zone",
+            "original_x1": 517,
+            "original_y1": 544,
+            "original_x2": 1456,
+            "original_y2": 1388,
+            "original_width": 939,
+            "original_height": 844
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right mid lung zone",
+            "x1": 32,
+            "y1": 121,
+            "x2": 106,
+            "y2": 154,
+            "width": 74,
+            "height": 33,
+            "bbox_name": "right mid lung zone",
+            "synsets": [
+                "CL380307"
+            ],
+            "name": "Right mid lung zone",
+            "original_x1": 435,
+            "original_y1": 1388,
+            "original_x2": 1443,
+            "original_y2": 1838,
+            "original_width": 1008,
+            "original_height": 450
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right lower lung zone",
+            "x1": 26,
+            "y1": 154,
+            "x2": 104,
+            "y2": 213,
+            "width": 78,
+            "height": 59,
+            "bbox_name": "right lower lung zone",
+            "synsets": [
+                "C0929214"
+            ],
+            "name": "Right lower lung zone",
+            "original_x1": 354,
+            "original_y1": 1838,
+            "original_x2": 1416,
+            "original_y2": 2641,
+            "original_width": 1062,
+            "original_height": 803
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right hilar structures",
+            "x1": 69,
+            "y1": 114,
+            "x2": 106,
+            "y2": 160,
+            "width": 37,
+            "height": 46,
+            "bbox_name": "right hilar structures",
+            "synsets": [
+                "C1708369"
+            ],
+            "name": "Hilar Area of the Right Lung",
+            "original_x1": 939,
+            "original_y1": 1293,
+            "original_x2": 1443,
+            "original_y2": 1919,
+            "original_width": 504,
+            "original_height": 626
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right apical zone",
+            "x1": 40,
+            "y1": 54,
+            "x2": 106,
+            "y2": 102,
+            "width": 66,
+            "height": 48,
+            "bbox_name": "right apical zone",
+            "synsets": [
+                "C0929167"
+            ],
+            "name": "Apical zone of right lung",
+            "original_x1": 544,
+            "original_y1": 476,
+            "original_x2": 1443,
+            "original_y2": 1130,
+            "original_width": 899,
+            "original_height": 654
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right costophrenic angle",
+            "x1": 16,
+            "y1": 198,
+            "x2": 36,
+            "y2": 218,
+            "width": 20,
+            "height": 20,
+            "bbox_name": "right costophrenic angle",
+            "synsets": [
+                "CL380392",
+                "C0504099"
+            ],
+            "name": "right costophrenic sulcus;;Right costodiaphragmatic recess",
+            "original_x1": 217,
+            "original_y1": 2437,
+            "original_x2": 490,
+            "original_y2": 2709,
+            "original_width": 273,
+            "original_height": 272
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right cardiophrenic angle",
+            "x1": 86,
+            "y1": 169,
+            "x2": 97,
+            "y2": 196,
+            "width": 11,
+            "height": 27,
+            "bbox_name": "right cardiophrenic angle",
+            "synsets": [
+                "CL380389"
+            ],
+            "name": "right cardiophrenic sulcus",
+            "original_x1": 1170,
+            "original_y1": 2042,
+            "original_x2": 1320,
+            "original_y2": 2410,
+            "original_width": 150,
+            "original_height": 368
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right hemidiaphragm",
+            "x1": 26,
+            "y1": 175,
+            "x2": 119,
+            "y2": 213,
+            "width": 93,
+            "height": 38,
+            "bbox_name": "right hemidiaphragm",
+            "synsets": [
+                "C0929193"
+            ],
+            "name": "Right hemidiaphragm",
+            "original_x1": 354,
+            "original_y1": 2124,
+            "original_x2": 1620,
+            "original_y2": 2641,
+            "original_width": 1266,
+            "original_height": 517
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left lung",
+            "x1": 122,
+            "y1": 59,
+            "x2": 209,
+            "y2": 201,
+            "width": 87,
+            "height": 142,
+            "bbox_name": "left lung",
+            "synsets": [
+                "C0225730"
+            ],
+            "name": "Left lung",
+            "original_x1": 1661,
+            "original_y1": 544,
+            "original_x2": 2845,
+            "original_y2": 2478,
+            "original_width": 1184,
+            "original_height": 1934
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left upper lung zone",
+            "x1": 122,
+            "y1": 64,
+            "x2": 185,
+            "y2": 121,
+            "width": 63,
+            "height": 57,
+            "bbox_name": "left upper lung zone",
+            "synsets": [
+                "C0929215"
+            ],
+            "name": "Left upper lung zone",
+            "original_x1": 1661,
+            "original_y1": 612,
+            "original_x2": 2518,
+            "original_y2": 1388,
+            "original_width": 857,
+            "original_height": 776
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left mid lung zone",
+            "x1": 129,
+            "y1": 121,
+            "x2": 199,
+            "y2": 150,
+            "width": 70,
+            "height": 29,
+            "bbox_name": "left mid lung zone",
+            "synsets": [
+                "CL380306"
+            ],
+            "name": "Left mid lung zone",
+            "original_x1": 1756,
+            "original_y1": 1388,
+            "original_x2": 2709,
+            "original_y2": 1783,
+            "original_width": 953,
+            "original_height": 395
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left lower lung zone",
+            "x1": 130,
+            "y1": 150,
+            "x2": 209,
+            "y2": 201,
+            "width": 79,
+            "height": 51,
+            "bbox_name": "left lower lung zone",
+            "synsets": [
+                "C0934571"
+            ],
+            "name": "Left lower lung zone",
+            "original_x1": 1770,
+            "original_y1": 1783,
+            "original_x2": 2845,
+            "original_y2": 2478,
+            "original_width": 1075,
+            "original_height": 695
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left hilar structures",
+            "x1": 125,
+            "y1": 115,
+            "x2": 164,
+            "y2": 155,
+            "width": 39,
+            "height": 40,
+            "bbox_name": "left hilar structures",
+            "synsets": [
+                "C1708367"
+            ],
+            "name": "Hilar Area of the Left Lung",
+            "original_x1": 1702,
+            "original_y1": 1307,
+            "original_x2": 2233,
+            "original_y2": 1851,
+            "original_width": 531,
+            "original_height": 544
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left apical zone",
+            "x1": 122,
+            "y1": 59,
+            "x2": 185,
+            "y2": 102,
+            "width": 63,
+            "height": 43,
+            "bbox_name": "left apical zone",
+            "synsets": [
+                "C0929168"
+            ],
+            "name": "Apical zone of left lung",
+            "original_x1": 1661,
+            "original_y1": 544,
+            "original_x2": 2518,
+            "original_y2": 1130,
+            "original_width": 857,
+            "original_height": 586
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left costophrenic angle",
+            "x1": 181,
+            "y1": 182,
+            "x2": 201,
+            "y2": 202,
+            "width": 20,
+            "height": 20,
+            "bbox_name": "left costophrenic angle",
+            "synsets": [
+                "CL380391",
+                "C0504100"
+            ],
+            "name": "left costophrenic sulcus;;Left costodiaphragmatic recess",
+            "original_x1": 2464,
+            "original_y1": 2219,
+            "original_x2": 2736,
+            "original_y2": 2491,
+            "original_width": 272,
+            "original_height": 272
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left hemidiaphragm",
+            "x1": 122,
+            "y1": 184,
+            "x2": 209,
+            "y2": 201,
+            "width": 87,
+            "height": 17,
+            "bbox_name": "left hemidiaphragm",
+            "synsets": [
+                "C0929194"
+            ],
+            "name": "Left hemidiaphragm",
+            "original_x1": 1661,
+            "original_y1": 2246,
+            "original_x2": 2845,
+            "original_y2": 2478,
+            "original_width": 1184,
+            "original_height": 232
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_trachea",
+            "x1": 101,
+            "y1": 63,
+            "x2": 125,
+            "y2": 144,
+            "width": 24,
+            "height": 81,
+            "bbox_name": "trachea",
+            "synsets": [
+                "C0040578&&C0024496"
+            ],
+            "name": "Trachea&&Main Bronchus",
+            "original_x1": 1375,
+            "original_y1": 599,
+            "original_x2": 1702,
+            "original_y2": 1702,
+            "original_width": 327,
+            "original_height": 1103
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_spine",
+            "x1": 94,
+            "y1": 0,
+            "x2": 137,
+            "y2": 223,
+            "width": 43,
+            "height": 223,
+            "bbox_name": "spine",
+            "synsets": [
+                "C0037949"
+            ],
+            "name": "Vertebral column",
+            "original_x1": 1279,
+            "original_y1": -258,
+            "original_x2": 1865,
+            "original_y2": 2777,
+            "original_width": 586,
+            "original_height": 3035
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right clavicle",
+            "x1": 29,
+            "y1": 49,
+            "x2": 93,
+            "y2": 107,
+            "width": 64,
+            "height": 58,
+            "bbox_name": "right clavicle",
+            "synsets": [
+                "C0507156"
+            ],
+            "name": "Right clavicle",
+            "original_x1": 394,
+            "original_y1": 408,
+            "original_x2": 1266,
+            "original_y2": 1198,
+            "original_width": 872,
+            "original_height": 790
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left clavicle",
+            "x1": 133,
+            "y1": 56,
+            "x2": 190,
+            "y2": 102,
+            "width": 57,
+            "height": 46,
+            "bbox_name": "left clavicle",
+            "synsets": [
+                "C0507157"
+            ],
+            "name": "Left clavicle",
+            "original_x1": 1810,
+            "original_y1": 503,
+            "original_x2": 2587,
+            "original_y2": 1130,
+            "original_width": 777,
+            "original_height": 627
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_aortic arch",
+            "x1": 116,
+            "y1": 102,
+            "x2": 135,
+            "y2": 121,
+            "width": 19,
+            "height": 19,
+            "bbox_name": "aortic arch",
+            "synsets": [
+                "C0003489"
+            ],
+            "name": "Aortic arch structure",
+            "original_x1": 1579,
+            "original_y1": 1130,
+            "original_x2": 1838,
+            "original_y2": 1388,
+            "original_width": 259,
+            "original_height": 258
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_mediastinum",
+            "x1": 92,
+            "y1": 66,
+            "x2": 190,
+            "y2": 195,
+            "width": 98,
+            "height": 129,
+            "bbox_name": "mediastinum",
+            "synsets": [
+                "C0025066"
+            ],
+            "name": "Mediastinum",
+            "original_x1": 1252,
+            "original_y1": 639,
+            "original_x2": 2587,
+            "original_y2": 2396,
+            "original_width": 1335,
+            "original_height": 1757
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_upper mediastinum",
+            "x1": 98,
+            "y1": 79,
+            "x2": 137,
+            "y2": 129,
+            "width": 39,
+            "height": 50,
+            "bbox_name": "upper mediastinum",
+            "synsets": [
+                "C0230147"
+            ],
+            "name": "Superior mediastinum",
+            "original_x1": 1334,
+            "original_y1": 816,
+            "original_x2": 1865,
+            "original_y2": 1497,
+            "original_width": 531,
+            "original_height": 681
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_svc",
+            "x1": 98,
+            "y1": 102,
+            "x2": 116,
+            "y2": 129,
+            "width": 18,
+            "height": 27,
+            "bbox_name": "svc",
+            "synsets": [
+                "C0042459"
+            ],
+            "name": "Superior vena cava structure",
+            "original_x1": 1334,
+            "original_y1": 1130,
+            "original_x2": 1579,
+            "original_y2": 1497,
+            "original_width": 245,
+            "original_height": 367
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_cardiac silhouette",
+            "x1": 92,
+            "y1": 130,
+            "x2": 164,
+            "y2": 195,
+            "width": 72,
+            "height": 65,
+            "bbox_name": "cardiac silhouette",
+            "synsets": [
+                "C0507134",
+                "C0018787"
+            ],
+            "name": "Cardiac shadow viewed radiologically;;Heart",
+            "original_x1": 1252,
+            "original_y1": 1511,
+            "original_x2": 2233,
+            "original_y2": 2396,
+            "original_width": 981,
+            "original_height": 885
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left cardiac silhouette",
+            "x1": 115,
+            "y1": 130,
+            "x2": 164,
+            "y2": 195,
+            "width": 49,
+            "height": 65,
+            "bbox_name": "left cardiac silhouette",
+            "synsets": [
+                "C0225819"
+            ],
+            "name": "Structure of left margin of heart",
+            "original_x1": 1565,
+            "original_y1": 1511,
+            "original_x2": 2233,
+            "original_y2": 2396,
+            "original_width": 668,
+            "original_height": 885
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right cardiac silhouette",
+            "x1": 92,
+            "y1": 130,
+            "x2": 114,
+            "y2": 192,
+            "width": 22,
+            "height": 62,
+            "bbox_name": "right cardiac silhouette",
+            "synsets": [
+                "C0502335"
+            ],
+            "name": "Right border of heart viewed radiologically",
+            "original_x1": 1252,
+            "original_y1": 1511,
+            "original_x2": 1552,
+            "original_y2": 2355,
+            "original_width": 300,
+            "original_height": 844
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_cavoatrial junction",
+            "x1": 92,
+            "y1": 130,
+            "x2": 114,
+            "y2": 150,
+            "width": 22,
+            "height": 20,
+            "bbox_name": "cavoatrial junction",
+            "synsets": [
+                "CL493350"
+            ],
+            "name": "cavoatrial",
+            "original_x1": 1252,
+            "original_y1": 1511,
+            "original_x2": 1552,
+            "original_y2": 1783,
+            "original_width": 300,
+            "original_height": 272
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right atrium",
+            "x1": 92,
+            "y1": 150,
+            "x2": 114,
+            "y2": 192,
+            "width": 22,
+            "height": 42,
+            "bbox_name": "right atrium",
+            "synsets": [
+                "C0225844"
+            ],
+            "name": "Right atrial structure",
+            "original_x1": 1252,
+            "original_y1": 1783,
+            "original_x2": 1552,
+            "original_y2": 2355,
+            "original_width": 300,
+            "original_height": 572
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_descending aorta",
+            "x1": 122,
+            "y1": 118,
+            "x2": 153,
+            "y2": 192,
+            "width": 31,
+            "height": 74,
+            "bbox_name": "descending aorta",
+            "synsets": [
+                "C0011666"
+            ],
+            "name": "Descending aorta",
+            "original_x1": 1661,
+            "original_y1": 1347,
+            "original_x2": 2083,
+            "original_y2": 2355,
+            "original_width": 422,
+            "original_height": 1008
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_carina",
+            "x1": 111,
+            "y1": 117,
+            "x2": 119,
+            "y2": 125,
+            "width": 8,
+            "height": 8,
+            "bbox_name": "carina",
+            "synsets": [
+                "C0225594"
+            ],
+            "name": "Structure of carina",
+            "original_x1": 1511,
+            "original_y1": 1334,
+            "original_x2": 1620,
+            "original_y2": 1443,
+            "original_width": 109,
+            "original_height": 109
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left upper abdomen",
+            "x1": 120,
+            "y1": 189,
+            "x2": 209,
+            "y2": 223,
+            "width": 89,
+            "height": 34,
+            "bbox_name": "left upper abdomen",
+            "synsets": [
+                "C0230179"
+            ],
+            "name": "Structure of left upper quadrant of abdomen",
+            "original_x1": 1633,
+            "original_y1": 2314,
+            "original_x2": 2845,
+            "original_y2": 2777,
+            "original_width": 1212,
+            "original_height": 463
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right upper abdomen",
+            "x1": 26,
+            "y1": 180,
+            "x2": 120,
+            "y2": 223,
+            "width": 94,
+            "height": 43,
+            "bbox_name": "right upper abdomen",
+            "synsets": [
+                "C0230177"
+            ],
+            "name": "Structure of right upper quadrant of abdomen",
+            "original_x1": 354,
+            "original_y1": 2192,
+            "original_x2": 1633,
+            "original_y2": 2777,
+            "original_width": 1279,
+            "original_height": 585
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_abdomen",
+            "x1": 26,
+            "y1": 180,
+            "x2": 209,
+            "y2": 223,
+            "width": 183,
+            "height": 43,
+            "bbox_name": "abdomen",
+            "synsets": [
+                "C0230168"
+            ],
+            "name": "Abdominal cavity",
+            "original_x1": 354,
+            "original_y1": 2192,
+            "original_x2": 2845,
+            "original_y2": 2777,
+            "original_width": 2491,
+            "original_height": 585
+        },
+        {
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left cardiophrenic angle",
+            "x1": 157,
+            "y1": 177,
+            "x2": 173,
+            "y2": 195,
+            "width": 16,
+            "height": 18,
+            "bbox_name": "left cardiophrenic angle",
+            "synsets": [
+                "CL380388"
+            ],
+            "name": "left cardiophrenic sulcus",
+            "original_x1": 2137,
+            "original_y1": 2151,
+            "original_x2": 2355,
+            "original_y2": 2396,
+            "original_width": 218,
+            "original_height": 245
+        }
+    ],
+    "attributes": [
+        {
+            "right lung": true,
+            "bbox_name": "right lung",
+            "synsets": [
+                "C0225706"
+            ],
+            "name": "Right lung",
+            "attributes": [
+                [
+                    "anatomicalfinding|yes|lung opacity",
+                    "anatomicalfinding|yes|pulmonary edema/hazy opacity",
+                    "disease|yes|interstitial lung disease",
+                    "disease|yes|pneumonia",
+                    "nlp|yes|abnormal"
+                ],
+                [
+                    "anatomicalfinding|yes|lung opacity",
+                    "anatomicalfinding|yes|pleural effusion",
+                    "nlp|yes|abnormal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "CL556823",
+                    "CL542044;;C0034063",
+                    "C0206062",
+                    "C0032285",
+                    "C0205161"
+                ],
+                [
+                    "CL556823",
+                    "CL545973;;C0032227",
+                    "C0205161"
+                ]
+            ],
+            "phrases": [
+                "The multifocal pneumonia or asymmetric edema that developed in the setting of\n chronic interstitial lung disease is over ___ has improved.",
+                "Pleural effusions are small if any."
+            ],
+            "phrase_IDs": [
+                "59477618|5",
+                "59477618|7"
+            ],
+            "sections": [
+                "finalreport",
+                "finalreport"
+            ],
+            "comparison_cues": [
+                [
+                    "comparison|yes|improved",
+                    "comparison|yes|worsened"
+                ],
+                []
+            ],
+            "temporal_cues": [
+                [],
+                []
+            ],
+            "severity_cues": [
+                [],
+                [
+                    "severity|yes|mild"
+                ]
+            ],
+            "texture_cues": [
+                [
+                    "texture|yes|opacity"
+                ],
+                [
+                    "texture|yes|opacity"
+                ]
+            ],
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right lung"
+        },
+        {
+            "right hilar structures": true,
+            "bbox_name": "right hilar structures",
+            "synsets": [
+                "C1708369"
+            ],
+            "name": "Hilar Area of the Right Lung",
+            "attributes": [
+                [
+                    "anatomicalfinding|yes|lung opacity",
+                    "anatomicalfinding|yes|pulmonary edema/hazy opacity",
+                    "nlp|yes|abnormal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "CL556823",
+                    "CL542044;;C0034063",
+                    "C0205161"
+                ]
+            ],
+            "phrases": [
+                "The multifocal pneumonia or asymmetric edema that developed in the setting of\n chronic interstitial lung disease is over ___ has improved."
+            ],
+            "phrase_IDs": [
+                "59477618|5"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                [
+                    "comparison|yes|improved",
+                    "comparison|yes|worsened"
+                ]
+            ],
+            "temporal_cues": [
+                [
+                    "temporal|yes|chronic"
+                ]
+            ],
+            "severity_cues": [
+                []
+            ],
+            "texture_cues": [
+                [
+                    "texture|yes|interstitial",
+                    "texture|yes|opacity"
+                ]
+            ],
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right hilar structures"
+        },
+        {
+            "right costophrenic angle": true,
+            "bbox_name": "right costophrenic angle",
+            "synsets": [
+                "CL380392",
+                "C0504099"
+            ],
+            "name": "right costophrenic sulcus;;Right costodiaphragmatic recess",
+            "attributes": [
+                [
+                    "anatomicalfinding|yes|lung opacity",
+                    "anatomicalfinding|yes|pleural effusion",
+                    "nlp|yes|abnormal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "CL556823",
+                    "CL545973;;C0032227",
+                    "C0205161"
+                ]
+            ],
+            "phrases": [
+                "Pleural effusions are small if any."
+            ],
+            "phrase_IDs": [
+                "59477618|7"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                []
+            ],
+            "temporal_cues": [
+                []
+            ],
+            "severity_cues": [
+                [
+                    "severity|yes|mild"
+                ]
+            ],
+            "texture_cues": [
+                [
+                    "texture|yes|opacity"
+                ]
+            ],
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right costophrenic angle"
+        },
+        {
+            "left lung": true,
+            "bbox_name": "left lung",
+            "synsets": [
+                "C0225730"
+            ],
+            "name": "Left lung",
+            "attributes": [
+                [
+                    "anatomicalfinding|yes|lung opacity",
+                    "anatomicalfinding|yes|pulmonary edema/hazy opacity",
+                    "disease|yes|interstitial lung disease",
+                    "disease|yes|pneumonia",
+                    "nlp|yes|abnormal"
+                ],
+                [
+                    "anatomicalfinding|yes|lung opacity",
+                    "anatomicalfinding|yes|pleural effusion",
+                    "nlp|yes|abnormal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "CL556823",
+                    "CL542044;;C0034063",
+                    "C0206062",
+                    "C0032285",
+                    "C0205161"
+                ],
+                [
+                    "CL556823",
+                    "CL545973;;C0032227",
+                    "C0205161"
+                ]
+            ],
+            "phrases": [
+                "The multifocal pneumonia or asymmetric edema that developed in the setting of\n chronic interstitial lung disease is over ___ has improved.",
+                "Pleural effusions are small if any."
+            ],
+            "phrase_IDs": [
+                "59477618|5",
+                "59477618|7"
+            ],
+            "sections": [
+                "finalreport",
+                "finalreport"
+            ],
+            "comparison_cues": [
+                [
+                    "comparison|yes|improved",
+                    "comparison|yes|worsened"
+                ],
+                []
+            ],
+            "temporal_cues": [
+                [],
+                []
+            ],
+            "severity_cues": [
+                [],
+                [
+                    "severity|yes|mild"
+                ]
+            ],
+            "texture_cues": [
+                [
+                    "texture|yes|opacity"
+                ],
+                [
+                    "texture|yes|opacity"
+                ]
+            ],
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left lung"
+        },
+        {
+            "left hilar structures": true,
+            "bbox_name": "left hilar structures",
+            "synsets": [
+                "C1708367"
+            ],
+            "name": "Hilar Area of the Left Lung",
+            "attributes": [
+                [
+                    "anatomicalfinding|yes|lung opacity",
+                    "anatomicalfinding|yes|pulmonary edema/hazy opacity",
+                    "nlp|yes|abnormal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "CL556823",
+                    "CL542044;;C0034063",
+                    "C0205161"
+                ]
+            ],
+            "phrases": [
+                "The multifocal pneumonia or asymmetric edema that developed in the setting of\n chronic interstitial lung disease is over ___ has improved."
+            ],
+            "phrase_IDs": [
+                "59477618|5"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                [
+                    "comparison|yes|improved",
+                    "comparison|yes|worsened"
+                ]
+            ],
+            "temporal_cues": [
+                [
+                    "temporal|yes|chronic"
+                ]
+            ],
+            "severity_cues": [
+                []
+            ],
+            "texture_cues": [
+                [
+                    "texture|yes|interstitial",
+                    "texture|yes|opacity"
+                ]
+            ],
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left hilar structures"
+        },
+        {
+            "left costophrenic angle": true,
+            "bbox_name": "left costophrenic angle",
+            "synsets": [
+                "CL380391",
+                "C0504100"
+            ],
+            "name": "left costophrenic sulcus;;Left costodiaphragmatic recess",
+            "attributes": [
+                [
+                    "anatomicalfinding|yes|lung opacity",
+                    "anatomicalfinding|yes|pleural effusion",
+                    "nlp|yes|abnormal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "CL556823",
+                    "CL545973;;C0032227",
+                    "C0205161"
+                ]
+            ],
+            "phrases": [
+                "Pleural effusions are small if any."
+            ],
+            "phrase_IDs": [
+                "59477618|7"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                []
+            ],
+            "temporal_cues": [
+                []
+            ],
+            "severity_cues": [
+                [
+                    "severity|yes|mild"
+                ]
+            ],
+            "texture_cues": [
+                [
+                    "texture|yes|opacity"
+                ]
+            ],
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left costophrenic angle"
+        },
+        {
+            "mediastinum": true,
+            "bbox_name": "mediastinum",
+            "synsets": [
+                "C0025066"
+            ],
+            "name": "Mediastinum",
+            "attributes": [
+                [
+                    "tubesandlines|yes|ij line"
+                ],
+                [
+                    "tubesandlines|yes|enteric tube"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "C0226550&&C1145640"
+                ],
+                [
+                    "C0085678"
+                ]
+            ],
+            "phrases": [
+                "ET tube and right internal jugular line are in standard placements.",
+                "Nasogastric drainage tube can be traced as far as the distal esophagus but tip\n is indistinct."
+            ],
+            "phrase_IDs": [
+                "59477618|8",
+                "59477618|9"
+            ],
+            "sections": [
+                "finalreport",
+                "finalreport"
+            ],
+            "comparison_cues": [
+                [],
+                []
+            ],
+            "temporal_cues": [
+                [],
+                []
+            ],
+            "severity_cues": [
+                [],
+                []
+            ],
+            "texture_cues": [
+                [],
+                []
+            ],
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_mediastinum"
+        },
+        {
+            "cardiac silhouette": true,
+            "bbox_name": "cardiac silhouette",
+            "synsets": [
+                "C0507134",
+                "C0018787"
+            ],
+            "name": "Cardiac shadow viewed radiologically;;Heart",
+            "attributes": [
+                [
+                    "anatomicalfinding|no|enlarged cardiac silhouette",
+                    "nlp|yes|normal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "C0018800;;C0507134&&CL448921",
+                    "C1550457"
+                ]
+            ],
+            "phrases": [
+                "Heart\n size is normal."
+            ],
+            "phrase_IDs": [
+                "59477618|6"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                []
+            ],
+            "temporal_cues": [
+                []
+            ],
+            "severity_cues": [
+                []
+            ],
+            "texture_cues": [
+                []
+            ],
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_cardiac silhouette"
+        },
+        {
+            "trachea": true,
+            "bbox_name": "trachea",
+            "synsets": [
+                "C0040578"
+            ],
+            "name": "Trachea",
+            "attributes": [
+                [
+                    "tubesandlines|yes|endotracheal tube"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "C0336630"
+                ]
+            ],
+            "phrases": [
+                "ET tube and right internal jugular line are in standard placements."
+            ],
+            "phrase_IDs": [
+                "59477618|8"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                []
+            ],
+            "temporal_cues": [
+                []
+            ],
+            "severity_cues": [
+                []
+            ],
+            "texture_cues": [
+                []
+            ],
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_trachea"
+        },
+        {
+            "abdomen": true,
+            "bbox_name": "abdomen",
+            "synsets": [
+                "C0230168"
+            ],
+            "name": "Abdominal cavity",
+            "attributes": [
+                [
+                    "tubesandlines|yes|enteric tube"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "C0085678"
+                ]
+            ],
+            "phrases": [
+                "Nasogastric drainage tube can be traced as far as the distal esophagus but tip\n is indistinct."
+            ],
+            "phrase_IDs": [
+                "59477618|9"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                []
+            ],
+            "temporal_cues": [
+                []
+            ],
+            "severity_cues": [
+                []
+            ],
+            "texture_cues": [
+                []
+            ],
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_abdomen"
+        },
+        {
+            "neck": true,
+            "bbox_name": "neck",
+            "synsets": [
+                "C0027530"
+            ],
+            "name": "Neck",
+            "attributes": [
+                [
+                    "tubesandlines|yes|endotracheal tube",
+                    "tubesandlines|yes|ij line"
+                ],
+                [
+                    "tubesandlines|yes|enteric tube"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "C0336630",
+                    "C0226550&&C1145640"
+                ],
+                [
+                    "C0085678"
+                ]
+            ],
+            "phrases": [
+                "ET tube and right internal jugular line are in standard placements.",
+                "Nasogastric drainage tube can be traced as far as the distal esophagus but tip\n is indistinct."
+            ],
+            "phrase_IDs": [
+                "59477618|8",
+                "59477618|9"
+            ],
+            "sections": [
+                "finalreport",
+                "finalreport"
+            ],
+            "comparison_cues": [
+                [],
+                []
+            ],
+            "temporal_cues": [
+                [],
+                []
+            ],
+            "severity_cues": [
+                [],
+                []
+            ],
+            "texture_cues": [
+                [],
+                []
+            ],
+            "object_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_neck"
+        }
+    ],
+    "relationships": [
+        {
+            "relationship_id": "59477618|5_59471975_C0225706_00a9c54d_3569779d",
+            "predicate": "['Better', 'Worse']",
+            "synsets": [
+                "C0184511",
+                "C1457868"
+            ],
+            "relationship_names": [
+                "comparison|yes|improved",
+                "comparison|yes|worsened"
+            ],
+            "relationship_contexts": [
+                1.0,
+                1.0
+            ],
+            "phrase": "The multifocal pneumonia or asymmetric edema that developed in the setting of\n chronic interstitial lung disease is over ___ has improved.",
+            "attributes": [
+                "anatomicalfinding|yes|lung opacity",
+                "anatomicalfinding|yes|pulmonary edema/hazy opacity",
+                "disease|yes|interstitial lung disease",
+                "disease|yes|pneumonia",
+                "nlp|yes|abnormal"
+            ],
+            "bbox_name": "right lung",
+            "subject_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right lung",
+            "object_id": "3569779d-6494c929-2d120a64-0b375e01-0d7e5577_right lung"
+        },
+        {
+            "relationship_id": "59477618|5_59471975_C0225706_00a9c54d_39a9a4d0",
+            "predicate": "['Better', 'Worse']",
+            "synsets": [
+                "C0184511",
+                "C1457868"
+            ],
+            "relationship_names": [
+                "comparison|yes|improved",
+                "comparison|yes|worsened"
+            ],
+            "relationship_contexts": [
+                1.0,
+                1.0
+            ],
+            "phrase": "The multifocal pneumonia or asymmetric edema that developed in the setting of\n chronic interstitial lung disease is over ___ has improved.",
+            "attributes": [
+                "anatomicalfinding|yes|lung opacity",
+                "anatomicalfinding|yes|pulmonary edema/hazy opacity",
+                "disease|yes|interstitial lung disease",
+                "disease|yes|pneumonia",
+                "nlp|yes|abnormal"
+            ],
+            "bbox_name": "right lung",
+            "subject_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right lung",
+            "object_id": "39a9a4d0-e2f2ce88-557f7f23-04e0a26e-95fe926a_right lung"
+        },
+        {
+            "relationship_id": "59477618|5_59471975_C1708369_00a9c54d_3569779d",
+            "predicate": "['Better', 'Worse']",
+            "synsets": [
+                "C0184511",
+                "C1457868"
+            ],
+            "relationship_names": [
+                "comparison|yes|improved",
+                "comparison|yes|worsened"
+            ],
+            "relationship_contexts": [
+                1.0,
+                1.0
+            ],
+            "phrase": "The multifocal pneumonia or asymmetric edema that developed in the setting of\n chronic interstitial lung disease is over ___ has improved.",
+            "attributes": [
+                "anatomicalfinding|yes|lung opacity",
+                "anatomicalfinding|yes|pulmonary edema/hazy opacity",
+                "nlp|yes|abnormal"
+            ],
+            "bbox_name": "right hilar structures",
+            "subject_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right hilar structures",
+            "object_id": "3569779d-6494c929-2d120a64-0b375e01-0d7e5577_right hilar structures"
+        },
+        {
+            "relationship_id": "59477618|5_59471975_C1708369_00a9c54d_39a9a4d0",
+            "predicate": "['Better', 'Worse']",
+            "synsets": [
+                "C0184511",
+                "C1457868"
+            ],
+            "relationship_names": [
+                "comparison|yes|improved",
+                "comparison|yes|worsened"
+            ],
+            "relationship_contexts": [
+                1.0,
+                1.0
+            ],
+            "phrase": "The multifocal pneumonia or asymmetric edema that developed in the setting of\n chronic interstitial lung disease is over ___ has improved.",
+            "attributes": [
+                "anatomicalfinding|yes|lung opacity",
+                "anatomicalfinding|yes|pulmonary edema/hazy opacity",
+                "nlp|yes|abnormal"
+            ],
+            "bbox_name": "right hilar structures",
+            "subject_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_right hilar structures",
+            "object_id": "39a9a4d0-e2f2ce88-557f7f23-04e0a26e-95fe926a_right hilar structures"
+        },
+        {
+            "relationship_id": "59477618|5_59471975_C0225730_00a9c54d_3569779d",
+            "predicate": "['Better', 'Worse']",
+            "synsets": [
+                "C0184511",
+                "C1457868"
+            ],
+            "relationship_names": [
+                "comparison|yes|improved",
+                "comparison|yes|worsened"
+            ],
+            "relationship_contexts": [
+                1.0,
+                1.0
+            ],
+            "phrase": "The multifocal pneumonia or asymmetric edema that developed in the setting of\n chronic interstitial lung disease is over ___ has improved.",
+            "attributes": [
+                "anatomicalfinding|yes|lung opacity",
+                "anatomicalfinding|yes|pulmonary edema/hazy opacity",
+                "disease|yes|interstitial lung disease",
+                "disease|yes|pneumonia",
+                "nlp|yes|abnormal"
+            ],
+            "bbox_name": "left lung",
+            "subject_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left lung",
+            "object_id": "3569779d-6494c929-2d120a64-0b375e01-0d7e5577_left lung"
+        },
+        {
+            "relationship_id": "59477618|5_59471975_C0225730_00a9c54d_39a9a4d0",
+            "predicate": "['Better', 'Worse']",
+            "synsets": [
+                "C0184511",
+                "C1457868"
+            ],
+            "relationship_names": [
+                "comparison|yes|improved",
+                "comparison|yes|worsened"
+            ],
+            "relationship_contexts": [
+                1.0,
+                1.0
+            ],
+            "phrase": "The multifocal pneumonia or asymmetric edema that developed in the setting of\n chronic interstitial lung disease is over ___ has improved.",
+            "attributes": [
+                "anatomicalfinding|yes|lung opacity",
+                "anatomicalfinding|yes|pulmonary edema/hazy opacity",
+                "disease|yes|interstitial lung disease",
+                "disease|yes|pneumonia",
+                "nlp|yes|abnormal"
+            ],
+            "bbox_name": "left lung",
+            "subject_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left lung",
+            "object_id": "39a9a4d0-e2f2ce88-557f7f23-04e0a26e-95fe926a_left lung"
+        },
+        {
+            "relationship_id": "59477618|5_59471975_C1708367_00a9c54d_3569779d",
+            "predicate": "['Better', 'Worse']",
+            "synsets": [
+                "C0184511",
+                "C1457868"
+            ],
+            "relationship_names": [
+                "comparison|yes|improved",
+                "comparison|yes|worsened"
+            ],
+            "relationship_contexts": [
+                1.0,
+                1.0
+            ],
+            "phrase": "The multifocal pneumonia or asymmetric edema that developed in the setting of\n chronic interstitial lung disease is over ___ has improved.",
+            "attributes": [
+                "anatomicalfinding|yes|lung opacity",
+                "anatomicalfinding|yes|pulmonary edema/hazy opacity",
+                "nlp|yes|abnormal"
+            ],
+            "bbox_name": "left hilar structures",
+            "subject_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left hilar structures",
+            "object_id": "3569779d-6494c929-2d120a64-0b375e01-0d7e5577_left hilar structures"
+        },
+        {
+            "relationship_id": "59477618|5_59471975_C1708367_00a9c54d_39a9a4d0",
+            "predicate": "['Better', 'Worse']",
+            "synsets": [
+                "C0184511",
+                "C1457868"
+            ],
+            "relationship_names": [
+                "comparison|yes|improved",
+                "comparison|yes|worsened"
+            ],
+            "relationship_contexts": [
+                1.0,
+                1.0
+            ],
+            "phrase": "The multifocal pneumonia or asymmetric edema that developed in the setting of\n chronic interstitial lung disease is over ___ has improved.",
+            "attributes": [
+                "anatomicalfinding|yes|lung opacity",
+                "anatomicalfinding|yes|pulmonary edema/hazy opacity",
+                "nlp|yes|abnormal"
+            ],
+            "bbox_name": "left hilar structures",
+            "subject_id": "00a9c54d-e4317df0-6c7841f5-348497a0-9bdece81_left hilar structures",
+            "object_id": "39a9a4d0-e2f2ce88-557f7f23-04e0a26e-95fe926a_left hilar structures"
+        }
+    ]
+}
