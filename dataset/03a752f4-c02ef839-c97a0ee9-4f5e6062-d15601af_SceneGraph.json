@@ -1,0 +1,1547 @@
+{
+    "image_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af",
+    "viewpoint": "AP",
+    "patient_id": 17395852,
+    "study_id": 57932538,
+    "gender": "F",
+    "age_decile": "70-80",
+    "reason_for_exam": "Status post fall.  Has L1 fracture.  Assess for traumatic injury.",
+    "StudyOrder": 1,
+    "StudyDateTime": "2202-06-18 01:41:35 UTC",
+    "objects": [
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right lung",
+            "x1": 18,
+            "y1": 31,
+            "x2": 106,
+            "y2": 189,
+            "width": 88,
+            "height": 158,
+            "bbox_name": "right lung",
+            "synsets": [
+                "C0225706"
+            ],
+            "name": "Right lung",
+            "original_x1": -13,
+            "original_y1": 422,
+            "original_x2": 1186,
+            "original_y2": 2578,
+            "original_width": 1199,
+            "original_height": 2156
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right upper lung zone",
+            "x1": 60,
+            "y1": 36,
+            "x2": 106,
+            "y2": 84,
+            "width": 46,
+            "height": 48,
+            "bbox_name": "right upper lung zone",
+            "synsets": [
+                "C0934570"
+            ],
+            "name": "Right upper lung zone",
+            "original_x1": 559,
+            "original_y1": 491,
+            "original_x2": 1186,
+            "original_y2": 1146,
+            "original_width": 627,
+            "original_height": 655
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right mid lung zone",
+            "x1": 30,
+            "y1": 84,
+            "x2": 106,
+            "y2": 122,
+            "width": 76,
+            "height": 38,
+            "bbox_name": "right mid lung zone",
+            "synsets": [
+                "CL380307"
+            ],
+            "name": "Right mid lung zone",
+            "original_x1": 150,
+            "original_y1": 1146,
+            "original_x2": 1186,
+            "original_y2": 1664,
+            "original_width": 1036,
+            "original_height": 518
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right lower lung zone",
+            "x1": 18,
+            "y1": 122,
+            "x2": 99,
+            "y2": 189,
+            "width": 81,
+            "height": 67,
+            "bbox_name": "right lower lung zone",
+            "synsets": [
+                "C0929214"
+            ],
+            "name": "Right lower lung zone",
+            "original_x1": -13,
+            "original_y1": 1664,
+            "original_x2": 1091,
+            "original_y2": 2578,
+            "original_width": 1104,
+            "original_height": 914
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right hilar structures",
+            "x1": 69,
+            "y1": 76,
+            "x2": 106,
+            "y2": 129,
+            "width": 37,
+            "height": 53,
+            "bbox_name": "right hilar structures",
+            "synsets": [
+                "C1708369"
+            ],
+            "name": "Hilar Area of the Right Lung",
+            "original_x1": 682,
+            "original_y1": 1036,
+            "original_x2": 1186,
+            "original_y2": 1759,
+            "original_width": 504,
+            "original_height": 723
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right apical zone",
+            "x1": 62,
+            "y1": 31,
+            "x2": 106,
+            "y2": 65,
+            "width": 44,
+            "height": 34,
+            "bbox_name": "right apical zone",
+            "synsets": [
+                "C0929167"
+            ],
+            "name": "Apical zone of right lung",
+            "original_x1": 586,
+            "original_y1": 422,
+            "original_x2": 1186,
+            "original_y2": 886,
+            "original_width": 600,
+            "original_height": 464
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right costophrenic angle",
+            "x1": 7,
+            "y1": 169,
+            "x2": 29,
+            "y2": 208,
+            "width": 22,
+            "height": 39,
+            "bbox_name": "right costophrenic angle",
+            "synsets": [
+                "CL380392",
+                "C0504099"
+            ],
+            "name": "right costophrenic sulcus;;Right costodiaphragmatic recess",
+            "original_x1": -163,
+            "original_y1": 2305,
+            "original_x2": 136,
+            "original_y2": 2837,
+            "original_width": 299,
+            "original_height": 532
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right cardiophrenic angle",
+            "x1": 85,
+            "y1": 134,
+            "x2": 94,
+            "y2": 153,
+            "width": 9,
+            "height": 19,
+            "bbox_name": "right cardiophrenic angle",
+            "synsets": [
+                "CL380389"
+            ],
+            "name": "right cardiophrenic sulcus",
+            "original_x1": 900,
+            "original_y1": 1828,
+            "original_x2": 1023,
+            "original_y2": 2087,
+            "original_width": 123,
+            "original_height": 259
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right hemidiaphragm",
+            "x1": 18,
+            "y1": 139,
+            "x2": 106,
+            "y2": 189,
+            "width": 88,
+            "height": 50,
+            "bbox_name": "right hemidiaphragm",
+            "synsets": [
+                "C0929193"
+            ],
+            "name": "Right hemidiaphragm",
+            "original_x1": -13,
+            "original_y1": 1896,
+            "original_x2": 1186,
+            "original_y2": 2578,
+            "original_width": 1199,
+            "original_height": 682
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left lung",
+            "x1": 114,
+            "y1": 31,
+            "x2": 202,
+            "y2": 189,
+            "width": 88,
+            "height": 158,
+            "bbox_name": "left lung",
+            "synsets": [
+                "C0225730"
+            ],
+            "name": "Left lung",
+            "original_x1": 1296,
+            "original_y1": 422,
+            "original_x2": 2496,
+            "original_y2": 2578,
+            "original_width": 1200,
+            "original_height": 2156
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left upper lung zone",
+            "x1": 114,
+            "y1": 36,
+            "x2": 160,
+            "y2": 84,
+            "width": 46,
+            "height": 48,
+            "bbox_name": "left upper lung zone",
+            "synsets": [
+                "C0929215"
+            ],
+            "name": "Left upper lung zone",
+            "original_x1": 1296,
+            "original_y1": 491,
+            "original_x2": 1923,
+            "original_y2": 1146,
+            "original_width": 627,
+            "original_height": 655
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left mid lung zone",
+            "x1": 114,
+            "y1": 84,
+            "x2": 189,
+            "y2": 122,
+            "width": 75,
+            "height": 38,
+            "bbox_name": "left mid lung zone",
+            "synsets": [
+                "CL380306"
+            ],
+            "name": "Left mid lung zone",
+            "original_x1": 1296,
+            "original_y1": 1146,
+            "original_x2": 2319,
+            "original_y2": 1664,
+            "original_width": 1023,
+            "original_height": 518
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left lower lung zone",
+            "x1": 121,
+            "y1": 122,
+            "x2": 202,
+            "y2": 189,
+            "width": 81,
+            "height": 67,
+            "bbox_name": "left lower lung zone",
+            "synsets": [
+                "C0934571"
+            ],
+            "name": "Left lower lung zone",
+            "original_x1": 1391,
+            "original_y1": 1664,
+            "original_x2": 2496,
+            "original_y2": 2578,
+            "original_width": 1105,
+            "original_height": 914
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left hilar structures",
+            "x1": 114,
+            "y1": 76,
+            "x2": 151,
+            "y2": 129,
+            "width": 37,
+            "height": 53,
+            "bbox_name": "left hilar structures",
+            "synsets": [
+                "C1708367"
+            ],
+            "name": "Hilar Area of the Left Lung",
+            "original_x1": 1296,
+            "original_y1": 1036,
+            "original_x2": 1800,
+            "original_y2": 1759,
+            "original_width": 504,
+            "original_height": 723
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left apical zone",
+            "x1": 114,
+            "y1": 31,
+            "x2": 158,
+            "y2": 65,
+            "width": 44,
+            "height": 34,
+            "bbox_name": "left apical zone",
+            "synsets": [
+                "C0929168"
+            ],
+            "name": "Apical zone of left lung",
+            "original_x1": 1296,
+            "original_y1": 422,
+            "original_x2": 1896,
+            "original_y2": 886,
+            "original_width": 600,
+            "original_height": 464
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left costophrenic angle",
+            "x1": 191,
+            "y1": 169,
+            "x2": 213,
+            "y2": 208,
+            "width": 22,
+            "height": 39,
+            "bbox_name": "left costophrenic angle",
+            "synsets": [
+                "CL380391",
+                "C0504100"
+            ],
+            "name": "left costophrenic sulcus;;Left costodiaphragmatic recess",
+            "original_x1": 2346,
+            "original_y1": 2305,
+            "original_x2": 2646,
+            "original_y2": 2837,
+            "original_width": 300,
+            "original_height": 532
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left hemidiaphragm",
+            "x1": 114,
+            "y1": 139,
+            "x2": 202,
+            "y2": 189,
+            "width": 88,
+            "height": 50,
+            "bbox_name": "left hemidiaphragm",
+            "synsets": [
+                "C0929194"
+            ],
+            "name": "Left hemidiaphragm",
+            "original_x1": 1296,
+            "original_y1": 1896,
+            "original_x2": 2496,
+            "original_y2": 2578,
+            "original_width": 1200,
+            "original_height": 682
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_trachea",
+            "x1": 91,
+            "y1": 41,
+            "x2": 118,
+            "y2": 110,
+            "width": 27,
+            "height": 69,
+            "bbox_name": "trachea",
+            "synsets": [
+                "C0040578&&C0024496"
+            ],
+            "name": "Trachea&&Main Bronchus",
+            "original_x1": 982,
+            "original_y1": 559,
+            "original_x2": 1350,
+            "original_y2": 1500,
+            "original_width": 368,
+            "original_height": 941
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_spine",
+            "x1": 96,
+            "y1": 0,
+            "x2": 125,
+            "y2": 223,
+            "width": 29,
+            "height": 223,
+            "bbox_name": "spine",
+            "synsets": [
+                "C0037949"
+            ],
+            "name": "Vertebral column",
+            "original_x1": 1050,
+            "original_y1": 0,
+            "original_x2": 1446,
+            "original_y2": 3042,
+            "original_width": 396,
+            "original_height": 3042
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right clavicle",
+            "x1": 20,
+            "y1": 26,
+            "x2": 82,
+            "y2": 63,
+            "width": 62,
+            "height": 37,
+            "bbox_name": "right clavicle",
+            "synsets": [
+                "C0507156"
+            ],
+            "name": "Right clavicle",
+            "original_x1": 13,
+            "original_y1": 354,
+            "original_x2": 859,
+            "original_y2": 859,
+            "original_width": 846,
+            "original_height": 505
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left clavicle",
+            "x1": 121,
+            "y1": 27,
+            "x2": 167,
+            "y2": 65,
+            "width": 46,
+            "height": 38,
+            "bbox_name": "left clavicle",
+            "synsets": [
+                "C0507157"
+            ],
+            "name": "Left clavicle",
+            "original_x1": 1391,
+            "original_y1": 368,
+            "original_x2": 2019,
+            "original_y2": 886,
+            "original_width": 628,
+            "original_height": 518
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_aortic arch",
+            "x1": 105,
+            "y1": 68,
+            "x2": 130,
+            "y2": 84,
+            "width": 25,
+            "height": 16,
+            "bbox_name": "aortic arch",
+            "synsets": [
+                "C0003489"
+            ],
+            "name": "Aortic arch structure",
+            "original_x1": 1173,
+            "original_y1": 927,
+            "original_x2": 1514,
+            "original_y2": 1146,
+            "original_width": 341,
+            "original_height": 219
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_mediastinum",
+            "x1": 89,
+            "y1": 55,
+            "x2": 147,
+            "y2": 161,
+            "width": 58,
+            "height": 106,
+            "bbox_name": "mediastinum",
+            "synsets": [
+                "C0025066"
+            ],
+            "name": "Mediastinum",
+            "original_x1": 955,
+            "original_y1": 750,
+            "original_x2": 1746,
+            "original_y2": 2196,
+            "original_width": 791,
+            "original_height": 1446
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_upper mediastinum",
+            "x1": 89,
+            "y1": 55,
+            "x2": 130,
+            "y2": 107,
+            "width": 41,
+            "height": 52,
+            "bbox_name": "upper mediastinum",
+            "synsets": [
+                "C0230147"
+            ],
+            "name": "Superior mediastinum",
+            "original_x1": 955,
+            "original_y1": 750,
+            "original_x2": 1514,
+            "original_y2": 1459,
+            "original_width": 559,
+            "original_height": 709
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_svc",
+            "x1": 89,
+            "y1": 68,
+            "x2": 105,
+            "y2": 107,
+            "width": 16,
+            "height": 39,
+            "bbox_name": "svc",
+            "synsets": [
+                "C0042459"
+            ],
+            "name": "Superior vena cava structure",
+            "original_x1": 955,
+            "original_y1": 927,
+            "original_x2": 1173,
+            "original_y2": 1459,
+            "original_width": 218,
+            "original_height": 532
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_cardiac silhouette",
+            "x1": 90,
+            "y1": 108,
+            "x2": 147,
+            "y2": 161,
+            "width": 57,
+            "height": 53,
+            "bbox_name": "cardiac silhouette",
+            "synsets": [
+                "C0507134",
+                "C0018787"
+            ],
+            "name": "Cardiac shadow viewed radiologically;;Heart",
+            "original_x1": 968,
+            "original_y1": 1473,
+            "original_x2": 1746,
+            "original_y2": 2196,
+            "original_width": 778,
+            "original_height": 723
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left cardiac silhouette",
+            "x1": 110,
+            "y1": 108,
+            "x2": 147,
+            "y2": 161,
+            "width": 37,
+            "height": 53,
+            "bbox_name": "left cardiac silhouette",
+            "synsets": [
+                "C0225819"
+            ],
+            "name": "Structure of left margin of heart",
+            "original_x1": 1241,
+            "original_y1": 1473,
+            "original_x2": 1746,
+            "original_y2": 2196,
+            "original_width": 505,
+            "original_height": 723
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right cardiac silhouette",
+            "x1": 90,
+            "y1": 108,
+            "x2": 109,
+            "y2": 146,
+            "width": 19,
+            "height": 38,
+            "bbox_name": "right cardiac silhouette",
+            "synsets": [
+                "C0502335"
+            ],
+            "name": "Right border of heart viewed radiologically",
+            "original_x1": 968,
+            "original_y1": 1473,
+            "original_x2": 1227,
+            "original_y2": 1991,
+            "original_width": 259,
+            "original_height": 518
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_cavoatrial junction",
+            "x1": 90,
+            "y1": 108,
+            "x2": 109,
+            "y2": 120,
+            "width": 19,
+            "height": 12,
+            "bbox_name": "cavoatrial junction",
+            "synsets": [
+                "CL493350"
+            ],
+            "name": "cavoatrial",
+            "original_x1": 968,
+            "original_y1": 1473,
+            "original_x2": 1227,
+            "original_y2": 1637,
+            "original_width": 259,
+            "original_height": 164
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right atrium",
+            "x1": 90,
+            "y1": 120,
+            "x2": 109,
+            "y2": 146,
+            "width": 19,
+            "height": 26,
+            "bbox_name": "right atrium",
+            "synsets": [
+                "C0225844"
+            ],
+            "name": "Right atrial structure",
+            "original_x1": 968,
+            "original_y1": 1637,
+            "original_x2": 1227,
+            "original_y2": 1991,
+            "original_width": 259,
+            "original_height": 354
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_descending aorta",
+            "x1": 109,
+            "y1": 83,
+            "x2": 132,
+            "y2": 153,
+            "width": 23,
+            "height": 70,
+            "bbox_name": "descending aorta",
+            "synsets": [
+                "C0011666"
+            ],
+            "name": "Descending aorta",
+            "original_x1": 1227,
+            "original_y1": 1132,
+            "original_x2": 1541,
+            "original_y2": 2087,
+            "original_width": 314,
+            "original_height": 955
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_carina",
+            "x1": 102,
+            "y1": 80,
+            "x2": 111,
+            "y2": 89,
+            "width": 9,
+            "height": 9,
+            "bbox_name": "carina",
+            "synsets": [
+                "C0225594"
+            ],
+            "name": "Structure of carina",
+            "original_x1": 1132,
+            "original_y1": 1091,
+            "original_x2": 1255,
+            "original_y2": 1214,
+            "original_width": 123,
+            "original_height": 123
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left upper abdomen",
+            "x1": 110,
+            "y1": 144,
+            "x2": 202,
+            "y2": 223,
+            "width": 92,
+            "height": 79,
+            "bbox_name": "left upper abdomen",
+            "synsets": [
+                "C0230179"
+            ],
+            "name": "Structure of left upper quadrant of abdomen",
+            "original_x1": 1241,
+            "original_y1": 1964,
+            "original_x2": 2496,
+            "original_y2": 3042,
+            "original_width": 1255,
+            "original_height": 1078
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right upper abdomen",
+            "x1": 18,
+            "y1": 144,
+            "x2": 110,
+            "y2": 223,
+            "width": 92,
+            "height": 79,
+            "bbox_name": "right upper abdomen",
+            "synsets": [
+                "C0230177"
+            ],
+            "name": "Structure of right upper quadrant of abdomen",
+            "original_x1": -13,
+            "original_y1": 1964,
+            "original_x2": 1241,
+            "original_y2": 3042,
+            "original_width": 1254,
+            "original_height": 1078
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_abdomen",
+            "x1": 18,
+            "y1": 144,
+            "x2": 202,
+            "y2": 223,
+            "width": 184,
+            "height": 79,
+            "bbox_name": "abdomen",
+            "synsets": [
+                "C0230168"
+            ],
+            "name": "Abdominal cavity",
+            "original_x1": -13,
+            "original_y1": 1964,
+            "original_x2": 2496,
+            "original_y2": 3042,
+            "original_width": 2509,
+            "original_height": 1078
+        },
+        {
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left cardiophrenic angle",
+            "x1": 142,
+            "y1": 134,
+            "x2": 154,
+            "y2": 161,
+            "width": 12,
+            "height": 27,
+            "bbox_name": "left cardiophrenic angle",
+            "synsets": [
+                "CL380388"
+            ],
+            "name": "left cardiophrenic sulcus",
+            "original_x1": 1678,
+            "original_y1": 1828,
+            "original_x2": 1841,
+            "original_y2": 2196,
+            "original_width": 163,
+            "original_height": 368
+        }
+    ],
+    "attributes": [
+        {
+            "right lung": true,
+            "bbox_name": "right lung",
+            "synsets": [
+                "C0225706"
+            ],
+            "name": "Right lung",
+            "attributes": [
+                [
+                    "anatomicalfinding|no|pleural effusion",
+                    "anatomicalfinding|no|pneumothorax"
+                ],
+                [
+                    "nlp|no|abnormal",
+                    "nlp|yes|normal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "CL545973;;C0032227",
+                    "C1963215;;C0032326"
+                ],
+                [
+                    "C0205161",
+                    "C1550457"
+                ]
+            ],
+            "phrases": [
+                "There is no pleural effusion or pneumothorax.",
+                "IMPRESSION:  No acute cardiopulmonary abnormality."
+            ],
+            "phrase_IDs": [
+                "57932538|8",
+                "57932538|12"
+            ],
+            "sections": [
+                "finalreport",
+                "finalreport"
+            ],
+            "comparison_cues": [
+                [],
+                []
+            ],
+            "temporal_cues": [
+                [],
+                []
+            ],
+            "severity_cues": [
+                [],
+                []
+            ],
+            "texture_cues": [
+                [],
+                []
+            ],
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right lung"
+        },
+        {
+            "right hilar structures": true,
+            "bbox_name": "right hilar structures",
+            "synsets": [
+                "C1708369"
+            ],
+            "name": "Hilar Area of the Right Lung",
+            "attributes": [
+                [
+                    "anatomicalfinding|no|enlarged hilum",
+                    "nlp|yes|normal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "CL565534;;C0456973;;C0225701&&CL448921;;C0225701&&C0205402",
+                    "C1550457"
+                ]
+            ],
+            "phrases": [
+                "The mediastinal and\n hilar contours are normal."
+            ],
+            "phrase_IDs": [
+                "57932538|7"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                []
+            ],
+            "temporal_cues": [
+                []
+            ],
+            "severity_cues": [
+                []
+            ],
+            "texture_cues": [
+                []
+            ],
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right hilar structures"
+        },
+        {
+            "right costophrenic angle": true,
+            "bbox_name": "right costophrenic angle",
+            "synsets": [
+                "CL380392",
+                "C0504099"
+            ],
+            "name": "right costophrenic sulcus;;Right costodiaphragmatic recess",
+            "attributes": [
+                [
+                    "anatomicalfinding|no|pleural effusion"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "CL545973;;C0032227"
+                ]
+            ],
+            "phrases": [
+                "There is no pleural effusion or pneumothorax."
+            ],
+            "phrase_IDs": [
+                "57932538|8"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                []
+            ],
+            "temporal_cues": [
+                []
+            ],
+            "severity_cues": [
+                []
+            ],
+            "texture_cues": [
+                []
+            ],
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right costophrenic angle"
+        },
+        {
+            "left lung": true,
+            "bbox_name": "left lung",
+            "synsets": [
+                "C0225730"
+            ],
+            "name": "Left lung",
+            "attributes": [
+                [
+                    "anatomicalfinding|no|pleural effusion",
+                    "anatomicalfinding|no|pneumothorax"
+                ],
+                [
+                    "nlp|no|abnormal",
+                    "nlp|yes|normal"
+                ],
+                [
+                    "anatomicalfinding|yes|atelectasis",
+                    "anatomicalfinding|yes|lung opacity",
+                    "nlp|yes|abnormal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "CL545973;;C0032227",
+                    "C1963215;;C0032326"
+                ],
+                [
+                    "C0205161",
+                    "C1550457"
+                ],
+                [
+                    "C0004144",
+                    "CL556823",
+                    "C0205161"
+                ]
+            ],
+            "phrases": [
+                "There is no pleural effusion or pneumothorax.",
+                "IMPRESSION:  No acute cardiopulmonary abnormality.",
+                "Mild atelectasis at the left base is evident."
+            ],
+            "phrase_IDs": [
+                "57932538|8",
+                "57932538|12",
+                "57932538|9"
+            ],
+            "sections": [
+                "finalreport",
+                "finalreport",
+                "finalreport"
+            ],
+            "comparison_cues": [
+                [],
+                [],
+                []
+            ],
+            "temporal_cues": [
+                [],
+                [],
+                []
+            ],
+            "severity_cues": [
+                [],
+                [],
+                [
+                    "severity|yes|mild"
+                ]
+            ],
+            "texture_cues": [
+                [],
+                [],
+                [
+                    "texture|yes|opacity"
+                ]
+            ],
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left lung"
+        },
+        {
+            "left lower lung zone": true,
+            "bbox_name": "left lower lung zone",
+            "synsets": [
+                "C0934571"
+            ],
+            "name": "Left lower lung zone",
+            "attributes": [
+                [
+                    "anatomicalfinding|yes|atelectasis",
+                    "anatomicalfinding|yes|lung opacity",
+                    "nlp|yes|abnormal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "C0004144",
+                    "CL556823",
+                    "C0205161"
+                ]
+            ],
+            "phrases": [
+                "Mild atelectasis at the left base is evident."
+            ],
+            "phrase_IDs": [
+                "57932538|9"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                []
+            ],
+            "temporal_cues": [
+                []
+            ],
+            "severity_cues": [
+                [
+                    "severity|yes|mild"
+                ]
+            ],
+            "texture_cues": [
+                [
+                    "texture|yes|opacity"
+                ]
+            ],
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left lower lung zone"
+        },
+        {
+            "left hilar structures": true,
+            "bbox_name": "left hilar structures",
+            "synsets": [
+                "C1708367"
+            ],
+            "name": "Hilar Area of the Left Lung",
+            "attributes": [
+                [
+                    "anatomicalfinding|no|enlarged hilum",
+                    "nlp|yes|normal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "CL565534;;C0456973;;C0225701&&CL448921;;C0225701&&C0205402",
+                    "C1550457"
+                ]
+            ],
+            "phrases": [
+                "The mediastinal and\n hilar contours are normal."
+            ],
+            "phrase_IDs": [
+                "57932538|7"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                []
+            ],
+            "temporal_cues": [
+                []
+            ],
+            "severity_cues": [
+                []
+            ],
+            "texture_cues": [
+                []
+            ],
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left hilar structures"
+        },
+        {
+            "left costophrenic angle": true,
+            "bbox_name": "left costophrenic angle",
+            "synsets": [
+                "CL380391",
+                "C0504100"
+            ],
+            "name": "left costophrenic sulcus;;Left costodiaphragmatic recess",
+            "attributes": [
+                [
+                    "anatomicalfinding|no|pleural effusion"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "CL545973;;C0032227"
+                ]
+            ],
+            "phrases": [
+                "There is no pleural effusion or pneumothorax."
+            ],
+            "phrase_IDs": [
+                "57932538|8"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                []
+            ],
+            "temporal_cues": [
+                []
+            ],
+            "severity_cues": [
+                []
+            ],
+            "texture_cues": [
+                []
+            ],
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left costophrenic angle"
+        },
+        {
+            "mediastinum": true,
+            "bbox_name": "mediastinum",
+            "synsets": [
+                "C0025066"
+            ],
+            "name": "Mediastinum",
+            "attributes": [
+                [
+                    "nlp|yes|abnormal",
+                    "technicalassessment|yes|rotated"
+                ],
+                [
+                    "anatomicalfinding|no|mediastinal displacement",
+                    "anatomicalfinding|no|mediastinal widening",
+                    "anatomicalfinding|no|superior mediastinal mass/enlargement",
+                    "nlp|yes|normal"
+                ],
+                [
+                    "nlp|no|abnormal",
+                    "nlp|yes|normal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "C0205161",
+                    "C1268086&&C0231458"
+                ],
+                [
+                    "C1403670;;C0025066&&CL381466",
+                    "C0746459;;C0025066&&C0700124",
+                    "C0240318;;C0520743;;C0230147&&CL448921",
+                    "C1550457"
+                ],
+                [
+                    "C0205161",
+                    "C1550457"
+                ]
+            ],
+            "phrases": [
+                "More prominence of the convexity of the ascending aorta is likely\n secondary to this rotation.",
+                "The mediastinal and\n hilar contours are normal.",
+                "IMPRESSION:  No acute cardiopulmonary abnormality."
+            ],
+            "phrase_IDs": [
+                "57932538|5",
+                "57932538|7",
+                "57932538|12"
+            ],
+            "sections": [
+                "finalreport",
+                "finalreport",
+                "finalreport"
+            ],
+            "comparison_cues": [
+                [],
+                [],
+                []
+            ],
+            "temporal_cues": [
+                [],
+                [],
+                []
+            ],
+            "severity_cues": [
+                [
+                    "severity|yes|hedge"
+                ],
+                [],
+                []
+            ],
+            "texture_cues": [
+                [],
+                [],
+                []
+            ],
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_mediastinum"
+        },
+        {
+            "upper mediastinum": true,
+            "bbox_name": "upper mediastinum",
+            "synsets": [
+                "C0230147"
+            ],
+            "name": "Superior mediastinum",
+            "attributes": [
+                [
+                    "anatomicalfinding|no|mediastinal displacement",
+                    "anatomicalfinding|no|mediastinal widening",
+                    "anatomicalfinding|no|superior mediastinal mass/enlargement",
+                    "nlp|yes|normal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "C1403670;;C0025066&&CL381466",
+                    "C0746459;;C0025066&&C0700124",
+                    "C0240318;;C0520743;;C0230147&&CL448921",
+                    "C1550457"
+                ]
+            ],
+            "phrases": [
+                "The mediastinal and\n hilar contours are normal."
+            ],
+            "phrase_IDs": [
+                "57932538|7"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                []
+            ],
+            "temporal_cues": [
+                []
+            ],
+            "severity_cues": [
+                []
+            ],
+            "texture_cues": [
+                []
+            ],
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_upper mediastinum"
+        },
+        {
+            "cardiac silhouette": true,
+            "bbox_name": "cardiac silhouette",
+            "synsets": [
+                "C0507134",
+                "C0018787"
+            ],
+            "name": "Cardiac shadow viewed radiologically;;Heart",
+            "attributes": [
+                [
+                    "nlp|no|abnormal",
+                    "nlp|yes|normal"
+                ],
+                [
+                    "nlp|no|abnormal",
+                    "nlp|yes|normal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "C0205161",
+                    "C1550457"
+                ],
+                [
+                    "C0205161",
+                    "C1550457"
+                ]
+            ],
+            "phrases": [
+                "The heart is not enlarged.",
+                "IMPRESSION:  No acute cardiopulmonary abnormality."
+            ],
+            "phrase_IDs": [
+                "57932538|6",
+                "57932538|12"
+            ],
+            "sections": [
+                "finalreport",
+                "finalreport"
+            ],
+            "comparison_cues": [
+                [],
+                []
+            ],
+            "temporal_cues": [
+                [],
+                []
+            ],
+            "severity_cues": [
+                [],
+                []
+            ],
+            "texture_cues": [
+                [],
+                []
+            ],
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_cardiac silhouette"
+        },
+        {
+            "right clavicle": true,
+            "bbox_name": "right clavicle",
+            "synsets": [
+                "C0507156"
+            ],
+            "name": "Right clavicle",
+            "attributes": [
+                [
+                    "technicalassessment|yes|rotated"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "C1268086&&C0231458"
+                ]
+            ],
+            "phrases": [
+                "More prominence of the convexity of the ascending aorta is likely\n secondary to this rotation."
+            ],
+            "phrase_IDs": [
+                "57932538|5"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                []
+            ],
+            "temporal_cues": [
+                []
+            ],
+            "severity_cues": [
+                [
+                    "severity|yes|hedge"
+                ]
+            ],
+            "texture_cues": [
+                []
+            ],
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right clavicle"
+        },
+        {
+            "left clavicle": true,
+            "bbox_name": "left clavicle",
+            "synsets": [
+                "C0507157"
+            ],
+            "name": "Left clavicle",
+            "attributes": [
+                [
+                    "technicalassessment|yes|rotated"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "C1268086&&C0231458"
+                ]
+            ],
+            "phrases": [
+                "More prominence of the convexity of the ascending aorta is likely\n secondary to this rotation."
+            ],
+            "phrase_IDs": [
+                "57932538|5"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                []
+            ],
+            "temporal_cues": [
+                []
+            ],
+            "severity_cues": [
+                [
+                    "severity|yes|hedge"
+                ]
+            ],
+            "texture_cues": [
+                []
+            ],
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left clavicle"
+        },
+        {
+            "spine": true,
+            "bbox_name": "spine",
+            "synsets": [
+                "C0037949"
+            ],
+            "name": "Vertebral column",
+            "attributes": [
+                [
+                    "anatomicalfinding|yes|spinal fracture",
+                    "nlp|yes|abnormal"
+                ],
+                [
+                    "anatomicalfinding|yes|scoliosis",
+                    "nlp|yes|abnormal",
+                    "technicalassessment|yes|rotated"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "C0080179;;&&C0016658",
+                    "C0205161"
+                ],
+                [
+                    "C0036439",
+                    "C0205161",
+                    "C1268086&&C0231458"
+                ]
+            ],
+            "phrases": [
+                "L1 compression\n fracture is again seen.",
+                "More prominence of the convexity of the ascending aorta is likely\n secondary to this rotation."
+            ],
+            "phrase_IDs": [
+                "57932538|11",
+                "57932538|5"
+            ],
+            "sections": [
+                "finalreport",
+                "finalreport"
+            ],
+            "comparison_cues": [
+                [
+                    "comparison|yes|no change"
+                ],
+                []
+            ],
+            "temporal_cues": [
+                [],
+                []
+            ],
+            "severity_cues": [
+                [],
+                [
+                    "severity|yes|hedge"
+                ]
+            ],
+            "texture_cues": [
+                [],
+                []
+            ],
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_spine"
+        },
+        {
+            "aortic arch": true,
+            "bbox_name": "aortic arch",
+            "synsets": [
+                "C0003489"
+            ],
+            "name": "Aortic arch structure",
+            "attributes": [
+                [
+                    "nlp|yes|abnormal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "C0205161"
+                ]
+            ],
+            "phrases": [
+                "More prominence of the convexity of the ascending aorta is likely\n secondary to this rotation."
+            ],
+            "phrase_IDs": [
+                "57932538|5"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                []
+            ],
+            "temporal_cues": [
+                []
+            ],
+            "severity_cues": [
+                [
+                    "severity|yes|hedge"
+                ]
+            ],
+            "texture_cues": [
+                []
+            ],
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_aortic arch"
+        },
+        {
+            "right chest wall": true,
+            "bbox_name": "right chest wall",
+            "synsets": [
+                "C0818149"
+            ],
+            "name": "Right lateral chest wall",
+            "attributes": [
+                [
+                    "anatomicalfinding|no|rib fracture",
+                    "nlp|no|abnormal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "C0035522;;C0035561&&C0016658",
+                    "C0205161"
+                ]
+            ],
+            "phrases": [
+                "No displaced rib fracture is\n detected within the limitations of portable chest radiograph."
+            ],
+            "phrase_IDs": [
+                "57932538|10"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                []
+            ],
+            "temporal_cues": [
+                []
+            ],
+            "severity_cues": [
+                [
+                    "severity|yes|hedge"
+                ]
+            ],
+            "texture_cues": [
+                []
+            ],
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_right chest wall"
+        },
+        {
+            "left chest wall": true,
+            "bbox_name": "left chest wall",
+            "synsets": [
+                "C0818150"
+            ],
+            "name": "Left lateral chest wall",
+            "attributes": [
+                [
+                    "anatomicalfinding|no|rib fracture",
+                    "nlp|no|abnormal"
+                ]
+            ],
+            "attributes_ids": [
+                [
+                    "C0035522;;C0035561&&C0016658",
+                    "C0205161"
+                ]
+            ],
+            "phrases": [
+                "No displaced rib fracture is\n detected within the limitations of portable chest radiograph."
+            ],
+            "phrase_IDs": [
+                "57932538|10"
+            ],
+            "sections": [
+                "finalreport"
+            ],
+            "comparison_cues": [
+                []
+            ],
+            "temporal_cues": [
+                []
+            ],
+            "severity_cues": [
+                [
+                    "severity|yes|hedge"
+                ]
+            ],
+            "texture_cues": [
+                []
+            ],
+            "object_id": "03a752f4-c02ef839-c97a0ee9-4f5e6062-d15601af_left chest wall"
+        }
+    ],
+    "relationships": []
+}
