@@ -49,6 +49,9 @@ Project architecture:
 
 -----------------------
 
+OUTPUTS
+-
+
 ![3](https://github.com/imharshitaa/Clinical-Decision-Support-System-Healthcare-EPICS-project/assets/143587481/5899a01f-6a17-4085-88e2-98b9157f5f91)
 
 ![Screenshot (47)](https://github.com/imharshitaa/Clinical-Decision-Support-System-Healthcare-EPICS-project/assets/143587481/9f7bfd0e-0d8d-4ede-8949-2c9500c3c2b7)
