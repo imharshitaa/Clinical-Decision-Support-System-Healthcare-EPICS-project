@@ -43,6 +43,8 @@ Technologies and Tools:
 
 --------------------------
 
+Project architecture:
+
 ![image](https://github.com/imharshitaa/Clinical-Decision-Support-System-Healthcare-EPICS-project/assets/143587481/8f99040a-51ef-4720-a5bc-fe16f9f0038f)
 
 -----------------------
